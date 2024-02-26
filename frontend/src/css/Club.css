@@ -1,0 +1,21 @@
+#club-imgs {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+
+#clubs-text {
+    color: whitesmoke;
+    padding-right: 0.8rem;
+}
+
+.clubs-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#clubs-container-heading{
+    color: aliceblue;
+    font-size: larger;
+}
